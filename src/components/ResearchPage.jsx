@@ -6,10 +6,10 @@ import LinkedInLink from './LinkedInLink';
 
 // Create an object to map image paths to imported images
 const images = {
-  'score_comparison': '/score_comparison.png',
-  'sentiment_comparison': '/sentiment_comparison.png',
-  'azn_frequency': '/azn_frequency.png',
-  'asian_frequency': '/asian_frequency.png',
+  'score_comparison': 'score_comparison.png',
+  'sentiment_comparison': 'sentiment_comparison.png',
+  'azn_frequency': 'azn_frequency.png',
+  'asian_frequency': 'asian_frequency.png',
   'asian': 'r_asianamerican_analysis.png',
   'azn': 'r_aznidentity_analysis.png',
   'asian_cirrus': 'asianamericancomments_abg_cirrus.png',
@@ -74,7 +74,7 @@ const ResearchPage = () => {
     <div 
       className="min-h-screen p-8 font-serif transition-all duration-500 ease-in-out bg-white"
       style={{
-        backgroundImage: `url('/background${backgroundIndex + 1}.png')`,
+        backgroundImage: `url('background${backgroundIndex + 1}.png')`,
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundAttachment: 'fixed'
