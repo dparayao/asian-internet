@@ -1,0 +1,7 @@
+.research-numbered-list ol {
+    padding-left: 2em;
+  }
+.research-numbered-list li {
+    padding-left: 1em;
+    text-indent: -1em;
+  }
