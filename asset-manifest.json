@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/asian-internet/static/css/main.37d3d92f.css",
+    "main.js": "/asian-internet/static/js/main.fc551b25.js",
+    "static/js/488.70a724cc.chunk.js": "/asian-internet/static/js/488.70a724cc.chunk.js",
+    "index.html": "/asian-internet/index.html",
+    "main.37d3d92f.css.map": "/asian-internet/static/css/main.37d3d92f.css.map",
+    "main.fc551b25.js.map": "/asian-internet/static/js/main.fc551b25.js.map",
+    "488.70a724cc.chunk.js.map": "/asian-internet/static/js/488.70a724cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37d3d92f.css",
+    "static/js/main.fc551b25.js"
+  ]
+}
